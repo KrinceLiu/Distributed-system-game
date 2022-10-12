@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Jerald/cmpt431finalproject#readme",
   "dependencies": {
     "color": "^3.1.0",
-    "fabric": "^2.7.0",
+    "fabric": "^5.2.4",
     "jquery": "^3.3.1",
     "p5": "^0.7.3",
     "package.json": "^2.0.1"
